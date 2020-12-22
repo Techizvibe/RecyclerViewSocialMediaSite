@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Social Media Sites</string>
+    <string name="content_desc">logos of social media sites</string>
+    <string name="social_site">Social Site</string>
+    <string name="description">Description</string>
+    <string-array name="social_sites">
+        <item>Youtube</item>
+        <item>Facebook</item>
+        <item>Instagram</item>
+        <item>Whatsapp</item>
+        <item>Telegram</item>
+        <item>Skype</item>
+        <item>Twitter</item>
+        <item>Snapchat</item>
+        <item>Pinterest</item>
+        <item>LinkedIn</item>
+    </string-array>
+    <string-array name="description">
+        <item>This is a default description</item>
+        <item>This is a default description</item>
+        <item>This is a default description</item>
+        <item>This is a default description</item>
+        <item>This is a default description</item>
+        <item>This is a default description</item>
+        <item>This is a default description</item>
+        <item>This is a default description</item>
+        <item>This is a default description</item>
+        <item>This is a default description</item>
+    </string-array>
+</resources>
